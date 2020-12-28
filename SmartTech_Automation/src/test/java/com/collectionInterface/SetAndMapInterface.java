@@ -111,7 +111,7 @@ public static void main(String[] args) {
 
 	hashSetInterface();	
   //setCollection();	
-  //getDuplicateValu();	
+  getDuplicateValu();	
     //hashMap();
 	}
 	
